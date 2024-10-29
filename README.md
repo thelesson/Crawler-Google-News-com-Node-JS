@@ -5,7 +5,9 @@ Um Crawler simples que retorna em json resultados de busca do Google News
 <p align="center">
   <img src="./screenshot/00001.jpeg" alt="0000" width="100%">
 </p>
-
+<p align="center">
+  <img src="./screenshot/001.png" alt="0000" width="100%">
+</p>
 
 ## Instalação 
 
