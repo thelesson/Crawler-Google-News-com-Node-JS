@@ -3,7 +3,7 @@ Um Crawler simples que retorna em json resultados de busca do Google News
 
 
 <p align="center">
-  <img src="./screenshots/00001" alt="0000" width="80%">
+  <img src="./screenshot/00001.jpeg" alt="0000" width="80%">
 </p>
 
 
