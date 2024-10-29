@@ -1,0 +1,16 @@
+{
+  "name": "news-api-goole-theless",
+  "version": "1.0.0",
+  "description": "Api que retorna resultados do google news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thélesson de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "puppeteer": "^23.6.0"
+  }
+}
